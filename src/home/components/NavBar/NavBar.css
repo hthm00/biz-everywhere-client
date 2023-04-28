@@ -1,0 +1,5 @@
+.header {
+    background-image: url('/public/images/Top-Background.jpg');
+    background-size: cover;
+    border-width: 10px;
+}
