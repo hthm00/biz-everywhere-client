@@ -1,10 +1,10 @@
 import { Row, Col } from "react-bootstrap";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import NavBar from "./home/components/NavBar/NavBar";
-import BusinessItem from "./shared/components/BusinessItem";
-import Footer from "./shared/components/Footer";
-import SubscribeForm from "./shared/components/SubscribeForm";
+import NavBar from "../components/NavBar/NavBar";
+import BusinessItem from "../../shared/components/BusinessItem";
+import Footer from "../../shared/components/Footer";
+import SubscribeForm from "../../shared/components/SubscribeForm";
 
 function Home() {
 	return (
